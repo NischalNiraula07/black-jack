@@ -1,1 +1,1 @@
-created a blackjack game using js# black-jack
+created a basic blackjack game while learning  JS
